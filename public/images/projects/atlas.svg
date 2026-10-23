@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="280" viewBox="0 0 480 280" role="img" aria-label="Atlas Mobile Banking preview">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1d4fd8"/><stop offset="1" stop-color="#5b8cff"/></linearGradient></defs>
+  <rect width="480" height="280" fill="url(#g)"/>
+  <circle cx="420" cy="40" r="120" fill="#ffffff" opacity="0.08"/>
+  <text x="28" y="78" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="44" font-weight="800" fill="#fff">Atlas</text>
+  <text x="30" y="112" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500" fill="#ffffff" opacity="0.9">Mobile Banking</text>
+  <rect x="300" y="40" width="148" height="210" rx="20" fill="#ffffff" opacity="0.22"/>
+  <rect x="314" y="66" width="120" height="34" rx="8" fill="#ffffff" opacity="0.85"/>
+  <rect x="314" y="114" width="120" height="18" rx="5" fill="#ffffff" opacity="0.5"/>
+  <rect x="314" y="142" width="96" height="18" rx="5" fill="#ffffff" opacity="0.5"/>
+  <rect x="314" y="170" width="120" height="18" rx="5" fill="#ffffff" opacity="0.5"/>
+  <rect x="314" y="198" width="70" height="18" rx="5" fill="#ffffff" opacity="0.5"/>
+  <rect x="30" y="200" width="120" height="36" rx="18" fill="#ffffff" opacity="0.92"/>
+  <text x="50" y="224" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#1d4fd8">Case study</text>
+</svg>
